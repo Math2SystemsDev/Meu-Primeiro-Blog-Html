@@ -12,10 +12,13 @@ p{
     justify-content: center;
 }
 
-a:hover {
+a {
     text-decoration: none;
     border: 10px;
     padding: 10px;
+}
+
+a:hover {
     background-color: yellow;
   }
 
