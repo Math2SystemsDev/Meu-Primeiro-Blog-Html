@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    background-color: bisque;
+}
+
+p{
+    justify-content: center;
+}
+
+a:hover {
+    text-decoration: none;
+    border: 10px;
+    padding: 10px;
+    background-color: yellow;
+  }
+
+form {
+    justify-content: center;
+    background-color: #15172b;
+    border-radius: 25px;
+    box-sizing: border-box;
+    border: 10px;
+    padding: 10px;
+  }
+
+
